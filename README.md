@@ -20,6 +20,11 @@ grouped_classes = {
          4: {1, 4, 9} # landable
 }
 ```
+### Binary Sample
 ![ao](https://user-images.githubusercontent.com/91251307/206537000-19647dab-c9df-4352-b41f-c83f953c679a.png)
 
+### 5-class Sample
+[cacca copy.pdf](https://github.com/santurini/Drone-Images-Semantic-Segmentation/files/10188488/cacca.copy.pdf)
+
+### Original Sample
 
