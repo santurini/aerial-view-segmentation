@@ -24,7 +24,7 @@ grouped_classes = {
 ![ao](https://user-images.githubusercontent.com/91251307/206537000-19647dab-c9df-4352-b41f-c83f953c679a.png)
 
 ### 5-class Sample
-[cacca copy.pdf](https://github.com/santurini/Drone-Images-Semantic-Segmentation/files/10188488/cacca.copy.pdf)
+![cacca](https://user-images.githubusercontent.com/91251307/206538414-34df6019-3e7f-4a3c-8560-b32c05039ca3.png)
 
 ### Original Sample
 
