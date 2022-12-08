@@ -2,6 +2,13 @@
 
 ## Dataset
 
+|Image|Binary|5-classes|
+|:-------------------------:|:-------------------------:|:-------------------------:|
+|![594](https://user-images.githubusercontent.com/91251307/206544548-2b0853c4-dc8b-4297-ae6d-02fd6994dd15.png)
+ |![594](https://user-images.githubusercontent.com/91251307/206544587-3924f5a2-82ca-4eed-9ee2-60b3cf7d6fe2.png)
+ |![594](https://user-images.githubusercontent.com/91251307/206543843-ceee696c-0d99-4e93-bba4-6626261da18d.png)
+ |
+
 The dataset used is called **Semantic Segmentation Drone Dataset** and can be downloaded already processed at the following [link](https://www.kaggle.com/datasets/santurini/semantic-segmentation-drone-dataset).
 
 From the original dataset the images were processed in such a way as to reduce the resolution and rename the labels to perform both Binary and Multi-class Classification; in the second case instead of using the original 24 classes they were grouped into 5 macro-classes as follows:
@@ -20,13 +27,5 @@ grouped_classes = {
          4: {1, 4, 9} # landable
 }
 ```
-### Binary Sample
-![ao](https://user-images.githubusercontent.com/91251307/206537000-19647dab-c9df-4352-b41f-c83f953c679a.png)
-
-### 5-class Sample
-![cacca](https://user-images.githubusercontent.com/91251307/206538631-23e6ff7e-190a-4ede-b390-68a0176ea56c.png)
-
-### Original Sample
-![image](https://user-images.githubusercontent.com/91251307/206538927-79bb7e72-4972-4ffa-83b0-3f1b59b86fa5.png)
 
 
