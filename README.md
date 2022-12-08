@@ -27,6 +27,6 @@ grouped_classes = {
 ![cacca](https://user-images.githubusercontent.com/91251307/206538631-23e6ff7e-190a-4ede-b390-68a0176ea56c.png)
 
 ### Original Sample
-<img width="644" alt="image" src="https://user-images.githubusercontent.com/91251307/206538927-79bb7e72-4972-4ffa-83b0-3f1b59b86fa5.png">
+![image](https://user-images.githubusercontent.com/91251307/206538927-79bb7e72-4972-4ffa-83b0-3f1b59b86fa5.png)
 
 
