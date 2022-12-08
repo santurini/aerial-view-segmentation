@@ -20,5 +20,6 @@ grouped_classes = {
          4: {1, 4, 9} # landable
 }
 ```
-![ao](https://user-images.githubusercontent.com/91251307/206536095-d6373f7c-b25b-4e39-bf9c-82dade1859b2.png)
+![ao](https://user-images.githubusercontent.com/91251307/206537000-19647dab-c9df-4352-b41f-c83f953c679a.png)
+
 
