@@ -24,7 +24,9 @@ grouped_classes = {
 ![ao](https://user-images.githubusercontent.com/91251307/206537000-19647dab-c9df-4352-b41f-c83f953c679a.png)
 
 ### 5-class Sample
-![cacca](https://user-images.githubusercontent.com/91251307/206538414-34df6019-3e7f-4a3c-8560-b32c05039ca3.png)
+![cacca](https://user-images.githubusercontent.com/91251307/206538631-23e6ff7e-190a-4ede-b390-68a0176ea56c.png)
 
 ### Original Sample
+<img width="644" alt="image" src="https://user-images.githubusercontent.com/91251307/206538927-79bb7e72-4972-4ffa-83b0-3f1b59b86fa5.png">
+
 
