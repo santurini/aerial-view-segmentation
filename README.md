@@ -4,8 +4,7 @@
 ## Friendly Reminder
 
 - If you use my Dataset please cite it in your work/repository with the following link: [Semantic Segmentation Drone Dataset](https://www.kaggle.com/datasets/santurini/semantic-segmentation-drone-dataset)
-
-- If you use or take inspiration from my code please cite with this link: [santurini/Drone-Images-Semantic-Segmentation](https://github.com/santurini/Drone-Images-Semantic-Segmentation)
+- If you use or take inspiration from this repository please cite with this link: [santurini/Drone-Images-Semantic-Segmentation](https://github.com/santurini/Drone-Images-Semantic-Segmentation)
 
 Your support will be truly appreciated and feel free to contact me at my following links or just send me an email:
 - [Linkedin](https://www.linkedin.com/in/arturo-ghinassi-50b8a0219/)
