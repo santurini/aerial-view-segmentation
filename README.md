@@ -95,3 +95,12 @@ This are the results for the 5-class segmentation:
 |Recall|0.492|0.921|0.891|0.682|0.95|
 |FPR|0.012|0.001|0.048|0.004|0.162|
 |IoU|0.431|0.83|0.82|0.566|0.825|
+
+
+<br />
+<br />
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/50860347/147412786-183da6b0-990f-4016-9f2e-0719d8066f5b.png" style="width: 100%"/>
+<p>
+
+<br />
