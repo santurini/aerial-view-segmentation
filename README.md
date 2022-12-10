@@ -51,3 +51,9 @@ This are the results for the 5-class segmentation:
 |Images|Groundtruth|U-Net|DeepLabV3|MAnet|
 |:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
 |<img src="https://user-images.githubusercontent.com/91251307/206851005-eb5af95c-1360-4a36-8619-9593c21fc00d.png">|<img src="https://user-images.githubusercontent.com/91251307/206851033-5df0bd2e-0496-4e8d-918d-55062b4dc199.png">|<img src="https://user-images.githubusercontent.com/91251307/206851054-b16271a5-90a8-425c-80e1-5234623ddd5b.png">|<img src="https://user-images.githubusercontent.com/91251307/206851067-a6acd522-3f7b-4218-8054-1f8c03e8cbbc.png">|<img src="https://user-images.githubusercontent.com/91251307/206851078-6a1cbb4f-eb95-486e-b2c9-09e5e56263fd.png">|
+
+|U-Net|Obstacles|Water|Nature|Moving|Landing|
+|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
+|Recall|0.67|0.96|0.882|0.657|0.955|
+|FPR|0.022|0.001|0.029|0.002|0.123|
+|IoU|0.518|0.903|0.843|0.581|0.842|
