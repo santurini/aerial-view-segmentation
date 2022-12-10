@@ -36,7 +36,7 @@ The models all had as their backbone an _efficient-b0_ pretrained on imagenet, w
 ## Binary Segmentation
 We leave here some mask predictions and results from the binary segmentation task.
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/91251307/206849683-1d5add75-6144-4a77-8307-ac33529e2e2a.png" width="19%" />
+  <img src="https://user-images.githubusercontent.com/91251307/206849683-1d5add75-6144-4a77-8307-ac33529e2e2a.png" width="18.2%" />
   <img src="https://user-images.githubusercontent.com/91251307/206849703-3817de45-cdf3-4b30-9a6a-527c3968b5ed.png" width="18%" /> 
   <img src="https://user-images.githubusercontent.com/91251307/206849709-7ca86dcc-1c12-41ce-9ccd-6b6715988266.png" width="18%" />
   <img src="https://user-images.githubusercontent.com/91251307/206849717-cffa3c84-1f59-4e18-ad9e-6570b1f975eb.png" width="18%" />
