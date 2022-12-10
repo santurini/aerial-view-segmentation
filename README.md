@@ -40,5 +40,9 @@ We leave here some mask predictions and results from the binary segmentation tas
 |:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
 |<img src="https://user-images.githubusercontent.com/91251307/206849683-1d5add75-6144-4a77-8307-ac33529e2e2a.png">|<img src="https://user-images.githubusercontent.com/91251307/206849703-3817de45-cdf3-4b30-9a6a-527c3968b5ed.png">|<img src="https://user-images.githubusercontent.com/91251307/206849709-7ca86dcc-1c12-41ce-9ccd-6b6715988266.png">|<img src="https://user-images.githubusercontent.com/91251307/206849717-cffa3c84-1f59-4e18-ad9e-6570b1f975eb.png">|<img src="https://user-images.githubusercontent.com/91251307/206849733-72783a38-68e6-402f-bc0b-a295ee7ed389.png">|
 
-
+|Models|Recall|FPR|IoU|
+|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
+|U-Net|0.971|0.222|0.923|
+|DeepLabV3|0.971|0.251|0.919|
+|MAnet|0.973|0.249|0.918|
 
