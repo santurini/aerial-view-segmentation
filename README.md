@@ -4,8 +4,8 @@
 
 The repository is structured as follows:
 
-	- _code_ folder: contains the notebook for image preprocessing, Binary segmentation and Multi-class segmentation
-	- _plots_ folder: contains two subfolders _binary_ and _multiclass_ with the respective plots
+- _code_ folder: contains the notebook for image preprocessing, Binary segmentation and Multi-class segmentation
+- _plots_ folder: contains two subfolders _binary_ and _multiclass_ with the respective plots
 
 ## Dataset
 
