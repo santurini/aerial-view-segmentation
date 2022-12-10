@@ -6,6 +6,8 @@ The repository is structured as follows:
 	- _code_ folder: contains the notebook for image preprocessing, Binary segmentation and Multi-class segmentation
 	- _plots_ folder: contains two subfolders _binary_ and _multiclass_ with the respective plots
 
+## Dataset
+
 The dataset used is called **Semantic Segmentation Drone Dataset** and can be downloaded already processed at the following [link](https://www.kaggle.com/datasets/santurini/semantic-segmentation-drone-dataset).
 
 From the original dataset the images were processed in such a way as to reduce the resolution and rename the labels to perform both Binary and Multi-class Classification; in the second case instead of using the original 24 classes they were grouped into 5 macro-classes as follows:
@@ -29,6 +31,7 @@ grouped_classes = {
 |![594](https://user-images.githubusercontent.com/91251307/206544548-2b0853c4-dc8b-4297-ae6d-02fd6994dd15.png)|![594](https://user-images.githubusercontent.com/91251307/206544587-3924f5a2-82ca-4eed-9ee2-60b3cf7d6fe2.png)|![594](https://user-images.githubusercontent.com/91251307/206543843-ceee696c-0d99-4e93-bba4-6626261da18d.png)|
 
 ## Models and Training
+
 The performance of 3 different Image segmentation models, each with its own particular characteristic, considered the state of the art were compared just to go to show how the different underlying concepts differed.
 
 The models all had as their backbone an _efficient-b0_ pretrained on imagenet, while the decoders were trained for 25 epochs on the augmented train set. Given the limited number of images (just 400) augmentation was crucial in order to train better the models.
@@ -42,6 +45,7 @@ The criterion used for the backpropagation was the Dice Loss (Binary and Multi-c
 |**MAnet**|Attention Mechanism|[paper](https://arxiv.org/pdf/2009.02130.pdf)|
 
 ## Binary Segmentation
+
 We leave here some mask predictions and results from the binary segmentation task.
 
 |Images|Groundtruth|U-Net|DeepLabV3|MAnet|
@@ -55,6 +59,7 @@ We leave here some mask predictions and results from the binary segmentation tas
 |MAnet|0.973|0.249|0.918|
 
 ## Multi-class Segmentation
+
 This are the results for the 5-class segmentation:
 |Images|Groundtruth|U-Net|DeepLabV3|MAnet|
 |:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
