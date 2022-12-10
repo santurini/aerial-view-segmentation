@@ -1,5 +1,11 @@
 # Drone Images Semantic Segmentation
 
+## Repository Structure
+
+The repository is structured as follows:
+	- _code_ folder: contains the notebook for image preprocessing, Binary segmentation and Multi-class segmentation
+	- _plots_ folder: contains two subfolders _binary_ and _multiclass_ with the respective plots
+
 The dataset used is called **Semantic Segmentation Drone Dataset** and can be downloaded already processed at the following [link](https://www.kaggle.com/datasets/santurini/semantic-segmentation-drone-dataset).
 
 From the original dataset the images were processed in such a way as to reduce the resolution and rename the labels to perform both Binary and Multi-class Classification; in the second case instead of using the original 24 classes they were grouped into 5 macro-classes as follows:
