@@ -23,5 +23,22 @@ grouped_classes = {
 |![594](https://user-images.githubusercontent.com/91251307/206544548-2b0853c4-dc8b-4297-ae6d-02fd6994dd15.png)|![594](https://user-images.githubusercontent.com/91251307/206544587-3924f5a2-82ca-4eed-9ee2-60b3cf7d6fe2.png)|![594](https://user-images.githubusercontent.com/91251307/206543843-ceee696c-0d99-4e93-bba4-6626261da18d.png)|
 
 ## Models and Training
+The performance of 3 different Image segmentation models, each with its own particular characteristic, considered the state of the art were compared just to go to show how the different underlying concepts differed.
+
+The models all had as their backbone an _efficient-b0_ pretrained on imagenet, while the decoders were trained for 25 epochs on the augmented train set. Given the limited number of images (just 400) augmentation was crucial in order to train better the models.
+
+|Model|Charachteristic|Paper|
+|:-------------------------:|:-------------------------:|:-------------------------:|
+|**U-Net**|Fully Convolutional|[paper](https://arxiv.org/pdf/1505.04597.pdf)|
+|**DeepLabV3**|Dilated Convolutions|[paper](https://arxiv.org/pdf/1706.05587v3.pdf)|
+|**MAnet**|Attention Mechanism|[paper](https://arxiv.org/pdf/2009.02130.pdf)|
+
+## Binary Segmentation
+We leave here some mask predictions and results from the binary segmentation task.
+![binary_images](https://user-images.githubusercontent.com/91251307/206849683-1d5add75-6144-4a77-8307-ac33529e2e2a.png)![binary_masks](https://user-images.githubusercontent.com/91251307/206849703-3817de45-cdf3-4b30-9a6a-527c3968b5ed.png)![unet](https://user-images.githubusercontent.com/91251307/206849709-7ca86dcc-1c12-41ce-9ccd-6b6715988266.png)![deeplabv3](https://user-images.githubusercontent.com/91251307/206849717-cffa3c84-1f59-4e18-ad9e-6570b1f975eb.png)![manet](https://user-images.githubusercontent.com/91251307/206849733-72783a38-68e6-402f-bc0b-a295ee7ed389.png)
+
+
+
+
 
 
