@@ -1,5 +1,5 @@
 # Drone Images Semantic Segmentation
-![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)![PyLightning](https://img.shields.io/badge/PyTorch Lightning-792EE5?style=for-the-badge&logo=PyTorch Lightning&logoColor=white)
+![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)![PyLightning](https://img.shields.io/badge/PyTorch Lightning-792EE5?style=for-the-badge&logo=PyTorchLightning&logoColor=white)
 
 ## Repository Structure
 
