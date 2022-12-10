@@ -1,6 +1,17 @@
 # Drone Images Semantic Segmentation
 ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)![PyLightning](https://camo.githubusercontent.com/eccadd08abc51c63cb194379b0eb797e4a82e0984dca6636f22df3bddd1e5647/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5079546f7263684c696768746e696e672d3739324545353f7374796c653d666f722d7468652d6261646765266c6f676f3d5079546f7263684c696768746e696e67266c6f676f436f6c6f723d7768697465)![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
+## Friendly Reminder
+
+- If you use my Dataset please cite it in your work/repository with the following link: [Semantic Segmentation Drone Dataset](https://www.kaggle.com/datasets/santurini/semantic-segmentation-drone-dataset)
+
+- If you use or take inspiration from my code please cite with this link: [santurini/Drone-Images-Semantic-Segmentation](https://github.com/santurini/Drone-Images-Semantic-Segmentation)
+
+Your support will be truly appreciated and feel free to contact me at my following links or just send me an email:
+- [Linkedin](https://www.linkedin.com/in/arturo-ghinassi-50b8a0219/)
+- [Kaggle](https://www.kaggle.com/santurini)
+- ghinassi.1863151@studenti.uniroma1.it
+
 ## Repository Structure
 
 The repository is structured as follows:
