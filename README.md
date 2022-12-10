@@ -27,6 +27,8 @@ The performance of 3 different Image segmentation models, each with its own part
 
 The models all had as their backbone an _efficient-b0_ pretrained on imagenet, while the decoders were trained for 25 epochs on the augmented train set. Given the limited number of images (just 400) augmentation was crucial in order to train better the models.
 
+The criterion used for the backpropagation was the Dice Loss (Binary and Multi-class) and the model was evaluated with Recall, False Positive Rate and image-wise IoU (in the Multi-class case all the metrics beside IoU were computed per-class).
+
 |Model|Charachteristic|Paper|
 |:-------------------------:|:-------------------------:|:-------------------------:|
 |**U-Net**|Fully Convolutional|[paper](https://arxiv.org/pdf/1505.04597.pdf)|
@@ -57,3 +59,15 @@ This are the results for the 5-class segmentation:
 |Recall|0.67|0.96|0.882|0.657|0.955|
 |FPR|0.022|0.001|0.029|0.002|0.123|
 |IoU|0.518|0.903|0.843|0.581|0.842|
+
+|DeepLabV3|Obstacles|Water|Nature|Moving|Landing|
+|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
+|Recall|0.633|0.955|0.905|0.672|0.94|
+|FPR|0.022|0.001|0.062|0.004|0.107|
+|IoU|0.503|0.883|0.814|0.563|0.896|
+
+|MAnet|Obstacles|Water|Nature|Moving|Landing|
+|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
+|Recall|0.492|0.921|0.891|0.682|0.95|
+|FPR|0.012|0.001|0.048|0.004|0.162|
+|IoU|0.431|0.83|0.82|0.566|0.825|
