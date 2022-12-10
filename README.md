@@ -46,3 +46,8 @@ We leave here some mask predictions and results from the binary segmentation tas
 |DeepLabV3|0.971|0.251|0.919|
 |MAnet|0.973|0.249|0.918|
 
+## Multi-class Segmentation
+This are the results for the 5-class segmentation:
+|Images|Groundtruth|U-Net|DeepLabV3|MAnet|
+|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
+|<img src="https://user-images.githubusercontent.com/91251307/206851005-eb5af95c-1360-4a36-8619-9593c21fc00d.png">|<img src="https://user-images.githubusercontent.com/91251307/206851033-5df0bd2e-0496-4e8d-918d-55062b4dc199.png">|<img src="https://user-images.githubusercontent.com/91251307/206851054-b16271a5-90a8-425c-80e1-5234623ddd5b.png">|<img src="https://user-images.githubusercontent.com/91251307/206851067-a6acd522-3f7b-4218-8054-1f8c03e8cbbc.png">|<img src="https://user-images.githubusercontent.com/91251307/206851078-6a1cbb4f-eb95-486e-b2c9-09e5e56263fd.png">|
